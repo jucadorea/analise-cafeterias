@@ -11,7 +11,7 @@ Análise de cerca de 149 mil transações de 3 lojas de uma rede de cafeterias (
 3. **Tendência:** qual é a tendência do faturamento diário e existe algum padrão semanal?
 
 ## Dados
-
+Coffee Sales Analysis Dataset https://www.kaggle.com/datasets/ankitrajmishra/coffee-sales-analysis-dataset/data
 - **Arquivo:** `dados/transacoes_cafeterias.csv` (149.116 linhas e 18 colunas, de 01/01/2023 a 30/06/2023).
 - **Lojas:** Astoria, Hell's Kitchen e Lower Manhattan.
 - **Colunas principais:** `transaction_id`, `transaction_date`, `transaction_time`, `store_location`, `product_category`, `product_type`, `product_detail`, `transaction_qty`, `unit_price`, `Total_Bill`.
