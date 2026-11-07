@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Dados gerados (o banco é recriado pelo script de importação)
+dados/*.db
+dados/*.sqlite
+
+# Sistema
+.DS_Store
+Thumbs.db
