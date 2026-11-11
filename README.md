@@ -2,7 +2,6 @@
 
 Análise de cerca de 149 mil transações de 3 lojas de uma rede de cafeterias (janeiro a junho de 2023), com SQL, Python (pandas) e um dashboard em Power BI, para responder se a rede vai bem e por quê.
 
-> **Status:** em andamento. Estrutura criada; importação dos dados, análises e dashboard em construção.
 
 ## Perguntas de negócio
 
@@ -51,7 +50,7 @@ pip install -r requirements.txt
 
 ## Roteiro do projeto
 
-- [ ] Importar a base em SQLite e checar a qualidade dos dados
+- [X ] Importar a base em SQLite e checar a qualidade dos dados
 - [ ] Pergunta 1: saúde da rede (SQL e pandas)
 - [ ] Pergunta 2: causas (volume, preço, lojas, produtos)
 - [ ] Pergunta 3: série temporal com média móvel de 30 dias
