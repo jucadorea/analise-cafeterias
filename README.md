@@ -17,6 +17,7 @@ Coffee Sales Analysis Dataset https://www.kaggle.com/datasets/ankitrajmishra/cof
 - **Colunas principais:** `transaction_id`, `transaction_date`, `transaction_time`, `store_location`, `product_category`, `product_type`, `product_detail`, `transaction_qty`, `unit_price`, `Total_Bill`.
 - **Origem:** dataset público de transações de cafeteria usado em cursos de análise de dados. *(Preencher: fonte, link e licença antes de publicar.)*
 - **Dicionário de dados:** a escrever (semana 1).
+- **Qualidade:** a base não tem ids duplicados nem valores nulos, e o total da conta é coerente com quantidade × preço unitário. Em 15 produtos o preço unitário varia no mesmo tamanho (por exemplo, biscoitos a 4,06 em vez de 3,25 em 21 linhas).
 
 ## Estrutura do repositório
 
