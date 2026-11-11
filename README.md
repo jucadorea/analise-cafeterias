@@ -26,6 +26,7 @@ analise-cafeterias/
 ├── dados/        # base de transações em CSV
 ├── sql/          # consultas SQL por pergunta
 ├── notebooks/    # análises em Python (pandas)
+├── scripts/      # importação e utilitários
 ├── requirements.txt
 └── README.md
 ```
