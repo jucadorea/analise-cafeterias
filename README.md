@@ -90,7 +90,11 @@ A rede cresce com força, de forma equilibrada entre as lojas e puxada por volum
 
 **Cuidados:** são só seis meses e não há ano anterior, então parte da alta pode ser sazonalidade; sem meta, "bem" significa crescimento em relação a janeiro.
 
-*(Perguntas 2 e 3: a preencher.)*
+### Conclusão da Pergunta 1
+
+**Sim, a rede vai bem.** O faturamento mensal praticamente dobrou de janeiro ($81.678) a junho ($166.486), e o faturamento médio por dia foi multiplicado por 2,1. O crescimento é equilibrado (cada loja fica entre 32,9% e 33,8% do total) e vem de mais vendas, não de preço maior: as transações por dia também foram multiplicadas por 2,1, enquanto a receita por transação ficou estável (índice 99,8).
+
+Dois alertas: o ritmo desacelerou em junho (+6,2% sobre maio, contra +31,8% de abril para maio), e seis meses sem ano anterior não permitem separar crescimento real de sazonalidade. O que fica em aberto para a Pergunta 2 é *de onde* vêm essas vendas a mais: de todos os produtos igualmente ou de alguns específicos?
 
 ## Roteiro do projeto
 
