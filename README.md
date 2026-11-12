@@ -1,5 +1,9 @@
 # Análise de uma rede de cafeterias
 
+[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://djq3qxvkahlnwkqvhaals3.streamlit.app/)
+
+**Dashboard online:** https://djq3qxvkahlnwkqvhaals3.streamlit.app/
+
 Análise de cerca de 149 mil transações de 3 lojas de uma rede de cafeterias (janeiro a junho de 2023), com SQL, Python (pandas) e dashboards, para responder se a rede vai bem e por quê.
 
 > **Status:** em andamento. Importação, checagem de qualidade, Pergunta 1 e dashboard interativo prontos; Perguntas 2 e 3 e dashboard em Power BI em construção.
