@@ -16,8 +16,8 @@ https://www.kaggle.com
 - **Arquivo:** `dados/transacoes_cafeterias.csv` (149.116 linhas e 18 colunas, de 01/01/2023 a 30/06/2023).
 - **Lojas:** Astoria, Hell's Kitchen e Lower Manhattan.
 - **Colunas principais:** `transaction_id`, `transaction_date`, `transaction_time`, `store_location`, `product_category`, `product_type`, `product_detail`, `transaction_qty`, `unit_price`, `Total_Bill`.
-- **Origem:** dataset público de transações de cafeteria usado em cursos de análise de dados. *(Preencher: fonte, link e licença antes de publicar.)*
-- **Dicionário de dados:** a escrever (semana 1).
+- **Origem:** dataset público de transações de cafeteria usado em cursos de análise de dados. 
+- **Dicionário de dados:** .
 - **Unidade da linha:** cada linha é um item vendido, sem id de pedido. Por isso "receita por transação" é a média por linha, e não o ticket por cliente. A moeda não é informada na fonte; os valores aparecem com `$`.
 - **Qualidade:** a base não tem ids duplicados nem valores nulos, e o total da conta é coerente com quantidade × preço unitário. Em 15 produtos o preço unitário varia no mesmo tamanho (por exemplo, biscoitos a 4,06 em vez de 3,25 em 21 linhas).
 
