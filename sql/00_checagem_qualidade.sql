@@ -44,7 +44,8 @@ SELECT store_id, store_location, COUNT(*) AS transacoes
 FROM transacoes
 GROUP BY store_id, store_location;
 
--- 8. Produtos com mais de um preço unitário (esperado: 0; se houver, o preço mudou ou há erro)
+-- 8. Produtos com mais de um preço unitário
+-- Resultado: 15 produtos (1.262 linhas, 0,74% do faturamento); investigação em sql/pergunta_2.sql, parte A.
 SELECT product_id, COUNT(DISTINCT unit_price) AS precos_distintos
 FROM transacoes
 GROUP BY product_id

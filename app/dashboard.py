@@ -224,5 +224,5 @@ with st.expander("Notas sobre os dados"):
         "- Em 15 produtos o preço unitário varia ao longo do período (investigação na Pergunta 2); recortes por produto "
         "podem ser afetados.\n"
         "- São só seis meses e não há ano anterior: parte do crescimento pode ser sazonalidade.\n"
-        "- Fonte: Coffee Sales Analysis Dataset (Kaggle)."
+        "- Fonte: Coffee Shop Sales (Maven Analytics) (https://mavenanalytics.io/data-playground/coffee-shop-sales)."
     )
