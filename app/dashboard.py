@@ -221,7 +221,7 @@ with st.expander("Notas sobre os dados"):
         "- Cada linha da base é um **item vendido**, sem id de pedido. Por isso *receita por transação* é a média por linha, "
         "não o ticket por cliente. Ao filtrar um produto, ela vira o preço médio pago por esse produto.\n"
         "- A moeda não é informada na fonte; os valores aparecem com `$`.\n"
-        "- Em 15 produtos o preço unitário varia ao longo do período (investigação na Pergunta 2); recortes por produto "
+        "- Em 15 produtos o preço unitário varia ao longo do período (1.262 linhas, 0,74% do faturamento; veja a Pergunta 2 no README); recortes por produto "
         "podem ser afetados.\n"
         "- São só seis meses e não há ano anterior: parte do crescimento pode ser sazonalidade.\n"
         "- Fonte: Coffee Shop Sales (Maven Analytics) (https://mavenanalytics.io/data-playground/coffee-shop-sales)."

@@ -1,7 +1,5 @@
 # Análise de uma rede de cafeterias
 
-[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://djq3qxvkahlnwkqvhaals3.streamlit.app/)
-
 **Dashboard online:** https://djq3qxvkahlnwkqvhaals3.streamlit.app/
 
 Análise de cerca de 149 mil transações de 3 lojas de uma rede de cafeterias (janeiro a junho de 2023), com SQL, Python (pandas) e dashboards, para responder se a rede vai bem e por quê.
@@ -64,7 +62,7 @@ analise-cafeterias/
 
 ## Ferramentas
 
-SQL (SQLite), Python (pandas, matplotlib, Plotly, Streamlit, Jupyter) e Power BI.
+SQL (SQLite) e Python (pandas, matplotlib, Plotly, Streamlit, Jupyter).
 
 ## Como reproduzir
 
@@ -82,6 +80,8 @@ python scripts/importar_para_sqlite.py     # cria dados/cafeterias.db (149.116 l
 - **Conferência dos cálculos:** `pytest tests -q`.
 
 ## Dashboard interativo
+
+![Dashboard](figuras/dashboard.png)
 
 O dashboard está publicado em https://djq3qxvkahlnwkqvhaals3.streamlit.app/. Se o app estiver hibernado (acontece depois de 12 horas sem visitas), basta abrir o link e aguardar alguns segundos.
 
