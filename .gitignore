@@ -12,3 +12,6 @@ dados/*.sqlite
 # Sistema
 .DS_Store
 Thumbs.db
+
+.env
+.streamlit/secrets.toml
